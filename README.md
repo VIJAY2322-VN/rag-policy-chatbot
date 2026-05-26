@@ -60,5 +60,3 @@ rag-policy-chatbot/
 ## 🛡️ License
 This project is licensed under the MIT License - feel free to use it for your organization!
 
----
-Built with ❤️ by Antigravity AI
