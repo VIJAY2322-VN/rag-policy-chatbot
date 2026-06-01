@@ -1,6 +1,6 @@
 # 🛡️ PolicyExpert AI
 
-**PolicyExpert AI** is a premium Retrieval-Augmented Generation (RAG) chatbot designed to help organizations navigate complex policy documents, compliance guidelines, and internal handbooks with ease.
+**PolicyExpert AI** is a premium Retrieval-Augmented Generation (RAG) chatbot designed to help organizations navigate complex policy documents, compliance guidelines, and internal handbooks with ease used find out the errors by expert AI Assistant.
 
 Built with a high-end interface and a robust AI engine, it provides instant, source-backed answers to your most critical policy questions.
 
